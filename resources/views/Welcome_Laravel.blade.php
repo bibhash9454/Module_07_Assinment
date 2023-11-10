@@ -1,4 +1,4 @@
 <?php
-echo"Hello, Laravel";
+echo"Hello, Laravel!";
 
 ?>
